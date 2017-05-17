@@ -1,0 +1,7 @@
+﻿  Task4A.cpp
+d:\softuni\c++\excercises\oopbasics\task4a\task4a\task4a.cpp(166): warning C4018: '<': signed/unsigned mismatch
+d:\softuni\c++\excercises\oopbasics\task4a\task4a\task4a.cpp(176): warning C4018: '<': signed/unsigned mismatch
+d:\softuni\c++\excercises\oopbasics\task4a\task4a\task4a.cpp(186): warning C4018: '<': signed/unsigned mismatch
+d:\softuni\c++\excercises\oopbasics\task4a\task4a\task4a.cpp(189): warning C4018: '<': signed/unsigned mismatch
+  Task4A.vcxproj -> D:\SoftUni\C++\Excercises\OOPBasics\Task4A\Debug\Task4A.exe
+  Task4A.vcxproj -> D:\SoftUni\C++\Excercises\OOPBasics\Task4A\Debug\Task4A.pdb (Partial PDB)

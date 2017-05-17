@@ -1,0 +1,4 @@
+﻿  04.makeUpperCase.cpp
+d:\softuni\c++\excercises\memorymenagment\makeuppercase\makeuppercase\04.makeuppercase.cpp(9): warning C4018: '<=': signed/unsigned mismatch
+  makeUpperCase.vcxproj -> D:\SoftUni\C++\Excercises\MemoryMenagment\makeUpperCase\Debug\makeUpperCase.exe
+  makeUpperCase.vcxproj -> D:\SoftUni\C++\Excercises\MemoryMenagment\makeUpperCase\Debug\makeUpperCase.pdb (Full PDB)

@@ -1,0 +1,4 @@
+﻿  09.parseNumbersFromFile.cpp
+d:\softuni\c++\excercises\memorymenagment\parsenumbersfromfile\parsenumbersfromfile\09.parsenumbersfromfile.cpp(26): warning C4018: '<': signed/unsigned mismatch
+  parseNumbersFromFile.vcxproj -> D:\SoftUni\C++\Excercises\MemoryMenagment\parseNumbersFromFile\Debug\parseNumbersFromFile.exe
+  parseNumbersFromFile.vcxproj -> D:\SoftUni\C++\Excercises\MemoryMenagment\parseNumbersFromFile\Debug\parseNumbersFromFile.pdb (Full PDB)

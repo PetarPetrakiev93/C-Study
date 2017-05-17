@@ -1,0 +1,5 @@
+﻿  04.bracketsCheck.cpp
+d:\softuni\c++\excercises\memorymenagment\bracketscheck\bracketscheck\04.bracketscheck.cpp(9): warning C4018: '<': signed/unsigned mismatch
+d:\softuni\c++\excercises\memorymenagment\bracketscheck\bracketscheck\04.bracketscheck.cpp(14): warning C4018: '<': signed/unsigned mismatch
+  bracketsCheck.vcxproj -> D:\SoftUni\C++\Excercises\MemoryMenagment\bracketsCheck\Debug\bracketsCheck.exe
+  bracketsCheck.vcxproj -> D:\SoftUni\C++\Excercises\MemoryMenagment\bracketsCheck\Debug\bracketsCheck.pdb (Full PDB)

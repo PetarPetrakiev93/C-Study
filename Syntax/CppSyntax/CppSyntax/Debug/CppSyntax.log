@@ -1,0 +1,3 @@
+﻿  2.SequenceOfIf.cpp
+2.SequenceOfIf.obj : error LNK2005: _main already defined in 1.ExamineTwoIntegers.obj
+D:\SoftUni\C++\Excercises\CppSyntax\Debug\CppSyntax.exe : fatal error LNK1169: one or more multiply defined symbols found

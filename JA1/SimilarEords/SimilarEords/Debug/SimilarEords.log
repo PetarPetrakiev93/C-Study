@@ -1,0 +1,6 @@
+﻿  Words.cpp
+d:\softuni\c++\excercises\ja1\similareords\similareords\words.cpp(28): warning C4018: '<': signed/unsigned mismatch
+d:\softuni\c++\excercises\ja1\similareords\similareords\words.cpp(35): warning C4018: '<': signed/unsigned mismatch
+d:\softuni\c++\excercises\ja1\similareords\similareords\words.cpp(42): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  SimilarEords.vcxproj -> D:\SoftUni\C++\Excercises\JA1\SimilarEords\Debug\SimilarEords.exe
+  SimilarEords.vcxproj -> D:\SoftUni\C++\Excercises\JA1\SimilarEords\Debug\SimilarEords.pdb (Full PDB)

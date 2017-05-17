@@ -1,0 +1,4 @@
+﻿  LineParser.cpp
+d:\softuni\c++\excercises\oopbasics\task1\task1\lineparser.cpp(70): warning C4018: '<': signed/unsigned mismatch
+  Task1.vcxproj -> D:\SoftUni\C++\Excercises\OOPBasics\Task1\Debug\Task1.exe
+  Task1.vcxproj -> D:\SoftUni\C++\Excercises\OOPBasics\Task1\Debug\Task1.pdb (Full PDB)
