@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\softuni\c++\excercises\ja2\task2\task2\main.cpp(16): warning C4018: '<': signed/unsigned mismatch
+d:\softuni\c++\excercises\ja2\task2\task2\main.cpp(24): warning C4018: '<': signed/unsigned mismatch
+  Task2.vcxproj -> D:\SoftUni\C++\Excercises\JA2\Task2\Debug\Task2.exe
+  Task2.vcxproj -> D:\SoftUni\C++\Excercises\JA2\Task2\Debug\Task2.pdb (Partial PDB)
