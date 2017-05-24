@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\softuni\c++\excercises\fullopp\task3\task3\main.cpp(22): warning C4101: 'temp': unreferenced local variable
+  SequencePrinterToFile.cpp
+  Generating Code...
+  Task3.vcxproj -> D:\SoftUni\C++\Excercises\FullOPP\Task3\Debug\Task3.exe
+  Task3.vcxproj -> D:\SoftUni\C++\Excercises\FullOPP\Task3\Debug\Task3.pdb (Partial PDB)
