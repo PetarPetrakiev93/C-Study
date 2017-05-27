@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\peter petrakiev\documents\visual studio 2017\projects\ja2\task4\task4\main.cpp(20): warning C4018: '<': signed/unsigned mismatch
+c:\users\peter petrakiev\documents\visual studio 2017\projects\ja2\task4\task4\main.cpp(22): warning C4018: '<': signed/unsigned mismatch
+  Task4.vcxproj -> C:\Users\Peter Petrakiev\Documents\Visual Studio 2017\Projects\JA2\Task4\Debug\Task4.exe
+  Task4.vcxproj -> C:\Users\Peter Petrakiev\Documents\Visual Studio 2017\Projects\JA2\Task4\Debug\Task4.pdb (Partial PDB)
